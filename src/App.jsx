@@ -6,10 +6,13 @@ import AddTask from './pages/AddTask';
 import EditTask from './pages/EditTask';
 import './App.css';
 
+// Configuração do basename para GitHub Pages
+const basename = process.env.NODE_ENV === 'production' ? '/aplicacao-de-tarefas' : '';
+
 const App = () => {
   return (
     <TaskProvider>
-      <Router>
+      <Router basename={basename}>
         <div className="app">
           <Routes>
             <Route path="/" element={<Home />} />
