@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aplicacao-de-tarefas/static/css/main.c699cc40.css",
+    "main.js": "/aplicacao-de-tarefas/static/js/main.f58f75f3.js",
+    "index.html": "/aplicacao-de-tarefas/index.html",
+    "main.c699cc40.css.map": "/aplicacao-de-tarefas/static/css/main.c699cc40.css.map",
+    "main.f58f75f3.js.map": "/aplicacao-de-tarefas/static/js/main.f58f75f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c699cc40.css",
+    "static/js/main.f58f75f3.js"
+  ]
+}

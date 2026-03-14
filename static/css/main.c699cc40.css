@@ -1,0 +1,2 @@
+.app{background-color:#f8f9fa;font-family:Segoe UI,Tahoma,Geneva,Verdana,sans-serif;min-height:100vh}@keyframes fadeIn{0%{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}.fade-in{animation:fadeIn .3s ease-out}::-webkit-scrollbar{width:8px}::-webkit-scrollbar-track{background:#f1f1f1;border-radius:4px}::-webkit-scrollbar-thumb{background:#667eea;border-radius:4px}::-webkit-scrollbar-thumb:hover{background:#5568d3}
+/*# sourceMappingURL=main.c699cc40.css.map*/
